@@ -4,7 +4,7 @@ Notes and scripts for use on macOS work machine.
 
 ## Snippets
 
-- [Preventing auto-mounting of Volumes](snippets/stop-automounting-of-volume.md)
+- [Preventing auto-mounting of volumes](snippets/stop-automounting-of-volume.md)
 
 ## Github docs
 
